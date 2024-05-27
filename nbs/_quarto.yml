@@ -11,10 +11,44 @@ website:
   twitter-card: true
   open-graph: true
   repo-actions: [issue]
+  page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
+  favicon: assets/dataidea-logo.png
   navbar:
     background: primary
     search: true
+    right:
+      - text: Home
+        href: "https://www.dataidea.org/"
+      - text: About
+        menu:
+          - text: About Us
+            url: "https://dataidea.org/#about"
+          - text: Privacy Policy
+            url: "https://dataidea.org/privacy_policy.html"
+          - text: Terms of Service
+            url: "https://dataidea.org/terms_of_service.html"
+      - text: Download
+        menu:
+          - text: Python 3 Beginner
+            url: "https://api.dataidea.org/school/download-course-material/1"
+          - text: Python Data Analysis
+            url: "https://api.dataidea.org/school/download-course-material/2"
+          - text: Pytorch
+            url: "https://api.dataidea.org/school/download-course-material/3"
+      - text: Resources
+        menu:
+          - text: Blog
+            url: "https://blog.dataidea.org"
+          - text: Forum
+            url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
+      - text: Contact
+        href: "https://www.dataidea.org/#contact"
   sidebar:
-    style: floating
+    style: "floating"
+    twitter-card:
+    creator: "@juma_shafara"
+    site: "@datas_idea"
 
 metadata-files: [nbdev.yml, sidebar.yml]

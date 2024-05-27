@@ -2,7 +2,7 @@
 
 d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/dataidea-webdev',
-                'doc_host': 'https://dataidea.github.io',
+                'doc_host': 'https://webdev.dataidea.org/',
                 'git_url': 'https://github.com/dataidea/dataidea-webdev',
                 'lib_path': 'dataidea_webdev'},
   'syms': {'dataidea_webdev.core': {'dataidea_webdev.core.foo': ('core.html#foo', 'dataidea_webdev/core.py')}}}

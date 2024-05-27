@@ -1,0 +1,18 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - section: Python
+        contents:
+          - Python/00_outline.ipynb
+          - Python/01_basics.ipynb
+          - Python/02_variables.ipynb
+          - Python/03_numbers.ipynb
+          - Python/04_operators.ipynb
+          - Python/05_containers.ipynb
+          - Python/06_flow_control.ipynb
+          - Python/07_advanced.ipynb
+          - Python/08_modules.ipynb
+          - Python/09_file_handling.ipynb
+          - Python/10_exercise.ipynb
+          - Python/miscellaneous_exerise.ipynb
