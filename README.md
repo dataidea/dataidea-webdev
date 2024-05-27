@@ -20,10 +20,10 @@ This subject is divided into specific courses as outlined below. The
 duration mentioned is an average based on our previous students’
 experiences, but it can vary depending on individual learning pace:
 
-- **Fundamentals of Web Development** (HTML, CSS, JavaScript) (1 month)
-- **Advanced JavaScript and Frontend Frameworks** (2-3 months)
-- **Backend Development with Python and Django** (2-3 months)
-- **Full Stack Development Projects** (3-5 months)
+- **HTML5 and CSS3** ( JavaScript) (1 month)
+- **JavaScript** (1 month)
+- **Python** (1 month)
+- **Django** (1 months)
 - **Database Management with SQL and Python** (optional) (1 month)
 
 You can choose to take the entire subject or select specific courses
