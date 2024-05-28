@@ -2,7 +2,6 @@ website:
   sidebar:
     contents:
       - index.ipynb
-      - 404.ipynb
       - section: 1.HTML
         contents:
           - 1.HTML/01_introduction.ipynb
