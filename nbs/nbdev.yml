@@ -3,7 +3,7 @@ project:
 
 website:
   title: "DATAIDEA"
-  site-url: "https://web.dataidea.org//"
+  site-url: "https://web.dataidea.org/"
   description: "Web Development Course Materials"
   repo-branch: main
   repo-url: "https://github.com/dataidea/dataidea-web"
