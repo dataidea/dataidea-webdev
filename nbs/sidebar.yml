@@ -2,6 +2,18 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - section: HTML Basics
+        contents:
+          - HTML Basics/01_introduction.ipynb
+          - HTML Basics/02_editors.ipynb
+          - HTML Basics/03_elements.ipynb
+          - HTML Basics/04_attributes.ipynb
+          - HTML Basics/05_comments.ipynb
+          - HTML Basics/06_styles.ipynb
+          - HTML Basics/08_links.ipynb
+          - HTML Basics/09_images.ipynb
+          - HTML Basics/10_tables.ipynb
+          - HTML Basics/11_lists.ipynb
       - section: Python
         contents:
           - Python/00_outline.ipynb

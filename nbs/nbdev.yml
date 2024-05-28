@@ -2,8 +2,8 @@ project:
   output-dir: _docs
 
 website:
-  title: "dataidea-webdev"
-  site-url: "https://web.dataidea.org//dataidea-webdev"
+  title: "DATAIDEA"
+  site-url: "https://web.dataidea.org//dataidea-web"
   description: "Web Development Course Materials"
   repo-branch: main
-  repo-url: "https://github.com/dataidea/dataidea-webdev"
+  repo-url: "https://github.com/dataidea/dataidea-web"
