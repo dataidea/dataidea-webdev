@@ -22,7 +22,9 @@ website:
           - 2.CSS/04_colors.ipynb
       - section: 3.JavaScript
         contents:
-          - 3.JavaScript/01_introduction.ipynb
+          - 3.JavaScript/01_overview.ipynb
+          - 3.JavaScript/02_introduction.ipynb
+          - 3.JavaScript/03_displaying_output.ipynb
       - section: Python
         contents:
           - Python/00_outline.ipynb
