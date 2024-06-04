@@ -4,6 +4,7 @@ website:
       - index.ipynb
       - section: 1.HTML
         contents:
+          - 1.HTML/00_outline.ipynb
           - 1.HTML/01_introduction.ipynb
           - 1.HTML/02_editors.ipynb
           - 1.HTML/03_elements.ipynb
@@ -16,12 +17,14 @@ website:
           - 1.HTML/11_lists.ipynb
       - section: 2.CSS
         contents:
+          - 2.CSS/00_outline.ipynb
           - 2.CSS/01_introduction.ipynb
           - 2.CSS/02_syntax.ipynb
           - 2.CSS/03_inserting.ipynb
           - 2.CSS/04_colors.ipynb
       - section: 3.JavaScript
         contents:
+          - 3.JavaScript/00_outline.ipynb
           - 3.JavaScript/01_overview.ipynb
           - 3.JavaScript/02_introduction.ipynb
           - 3.JavaScript/03_displaying_output.ipynb
