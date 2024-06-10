@@ -61,6 +61,6 @@ website:
     style: "floating"
     twitter-card:
     creator: "@juma_shafara"
-    site: "@datas_idea"
+    site: "@dataideaorg"
 
 metadata-files: [nbdev.yml, sidebar.yml]
