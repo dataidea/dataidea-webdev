@@ -15,6 +15,7 @@ website:
           - 1.HTML/09_images.ipynb
           - 1.HTML/10_tables.ipynb
           - 1.HTML/11_lists.ipynb
+          - 1.HTML/12_forms.ipynb
       - section: 2.CSS
         contents:
           - 2.CSS/00_outline.ipynb
@@ -28,17 +29,20 @@ website:
           - 3.JavaScript/01_overview.ipynb
           - 3.JavaScript/02_introduction.ipynb
           - 3.JavaScript/03_displaying_output.ipynb
-      - section: Python
+      - section: 4.Python
         contents:
-          - Python/00_outline.ipynb
-          - Python/01_basics.ipynb
-          - Python/02_variables.ipynb
-          - Python/03_numbers.ipynb
-          - Python/04_operators.ipynb
-          - Python/05_containers.ipynb
-          - Python/06_flow_control.ipynb
-          - Python/07_advanced.ipynb
-          - Python/08_modules.ipynb
-          - Python/09_file_handling.ipynb
-          - Python/10_exercise.ipynb
-          - Python/miscellaneous_exerise.ipynb
+          - 4.Python/00_outline.ipynb
+          - 4.Python/01_basics.ipynb
+          - 4.Python/02_variables.ipynb
+          - 4.Python/03_numbers.ipynb
+          - 4.Python/04_operators.ipynb
+          - 4.Python/05_containers.ipynb
+          - 4.Python/06_flow_control.ipynb
+          - 4.Python/07_advanced.ipynb
+          - 4.Python/08_modules.ipynb
+          - 4.Python/09_file_handling.ipynb
+          - 4.Python/10_exercise.ipynb
+          - 4.Python/miscellaneous_exerise.ipynb
+      - section: 5.Django
+        contents:
+          - 5.Django/00_outline.ipynb
