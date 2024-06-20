@@ -23,6 +23,12 @@ website:
           - 2.CSS/02_syntax.ipynb
           - 2.CSS/03_inserting.ipynb
           - 2.CSS/04_colors.ipynb
+          - 2.CSS/05_backgrounds.ipynb
+          - 2.CSS/06_borders.ipynb
+          - 2.CSS/07_margins.ipynb
+          - 2.CSS/08_padding.ipynb
+          - 2.CSS/09_width_and_height.ipynb
+          - 2.CSS/10_box_model.ipynb
       - section: 3.JavaScript
         contents:
           - 3.JavaScript/00_outline.ipynb
